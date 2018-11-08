@@ -1,6 +1,6 @@
 import numpy as np
 
 def main():
-    print("ok")
+    print("ok")osihgs
 
 main()
